@@ -7,7 +7,7 @@ function HomePage() {
     <Container className="py-5">
       <Card className="mx-auto shadow-sm text-center" style={{ maxWidth: 640 }}>
         <Card.Body className="p-4">
-          <h1 className="h2 mb-2">Welcome to FakeAPTStore</h1>
+          <h1 className="h2 mb-2">Welcome to FakeAPIStore</h1>
           <p className="text-muted mb-4">
             Browse products, view details, and practice create/update/delete with the FakeStore API.
           </p>
